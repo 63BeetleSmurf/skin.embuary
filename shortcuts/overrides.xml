@@ -41,7 +41,11 @@
 	</override>
 
 	<override action="favourites://">
-		<action>ActivateWindow(favourites)</action>
+		<action>ActivateWindow(favouritesbrowser)</action>
+	</override>
+
+	<override action="ActivateWindow(favourites)">
+		<action>ActivateWindow(favouritesbrowser)</action>
 	</override>
 
 	<override action="partymode_action">

@@ -1,3 +1,13 @@
+[B]Version 21.2.0 (Omega)[/B]
+- Kodi 21 Omega compatibility for LibreELEC 12.x (xbmc.gui 5.17.0, addon id skin.embuary-omega)
+- Replaced DialogFavourites.xml with MyFavourites.xml (favouritesbrowser window)
+- Added DialogColorPicker.xml + colorbutton in SettingsCategory.xml
+- Fixed SettingsScreenCalibration.xml for Nexus/Omega movingspeed API
+- Fixed DialogSelect.xml (scrollbar list, savestate support)
+- Pointer/mouse support, clickable VideoOSD seeker, DialogSeekBar focus fix
+- CEC standby option in power menu (PR #135)
+- Bumped minimum dependencies to Omega repo versions: embuary.helper 2.0.8, embuary.info 2.0.8, skinshortcuts 2.0.3, autocompletion 2.1.2 (uisounds stays 0.0.4)
+
 [B]Version 18.8.8[/B]
 - Added support for new Artist Slideshow version
 - Added busy spinner to genre window

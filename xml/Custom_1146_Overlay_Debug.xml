@@ -839,8 +839,8 @@
 					<shadowcolor>FF000000</shadowcolor>
 					<font>font_flag</font>
 					<align>right</align>
-					<label>DialogFavourites.xml</label>
-					<visible>Window.IsVisible(DialogFavourites.xml)</visible>
+					<label>MyFavourites.xml</label>
+					<visible>Window.IsVisible(favouritesbrowser)</visible>
 				</control>
 				<control type="label">
 					<height>20</height>
