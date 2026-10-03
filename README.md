@@ -1,3 +1,7 @@
+> **AI Disclosure**
+>
+> This is an unofficial fork which aims to keep the skin running on newer Kodi versions. Any changes have been made by an AI coding agent and reviewed only briefly by me. Provided as-is under the original license, with no warranty. Back up your Kodi setup first.
+
 # skin.embuary
 Embuary is based on the web UI of Emby and has been developed for Emby-For-kodi users, but it doesn't require Emby at all and will also work with a regular Kodi setup.
 
@@ -11,3 +15,4 @@ This work has been released under CC by-nc-nd 4.0.
 You are allowed to:
 - Change whatever if you want to use it for your your personal use, but don't share it to the public. That restriction also applies to public GitHub repositories.
 - If you fork and add your personal modifications you are allowed to release it to the public if you don't change the addon title/name to someting complete different (rebranding). Modification tags behind the addon title are okay. Example: ID "skin.embuary-moddedbyme" Name "Embuary Skin - Modded by me". The addon.xml has to include proper credits and the information that it's a fork based on my work. The license model cannot be changed.
+
